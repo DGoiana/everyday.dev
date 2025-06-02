@@ -44,10 +44,10 @@ docker run -d --name lbaw2441 -p 8001:80 gitlab.up.pt:5050/lbaw/lbaw2425/lbaw240
 
 ## Project Components
 
-* [ER: Requirements Specification](https://gitlab.up.pt/lbaw/lbaw2425/lbaw24041/-/wikis/er)
-* [EBD: Database Specification](https://gitlab.up.pt/lbaw/lbaw2425/lbaw24041/-/wikis/edb)
-* [EAP: Architecture Specification and Prototype](https://gitlab.up.pt/lbaw/lbaw2425/lbaw24041/-/wikis/eap)
-* [PA: Product and Presentation](https://gitlab.up.pt/lbaw/lbaw2425/lbaw24041/-/wikis/pa)
+* [ER: Requirements Specification](https://github.com/DGoiana/everyday.dev/wiki/er)
+* [EBD: Database Specification](https://github.com/DGoiana/everyday.dev/wiki/ebd)
+* [EAP: Architecture Specification and Prototype](https://github.com/DGoiana/everyday.dev/wiki/eap)
+* [PA: Product and Presentation](https://github.com/DGoiana/everyday.dev/wiki/pa)
 
 ## Artefacts Checklist
 + The artefacts checklist is available at this [link](https://docs.google.com/spreadsheets/d/1Slm9z7z6odYqT0jRxVVs8Aj4tcNGQtVQG1Yro9hezzI/edit?gid=1240712519#gid=1240712519).
